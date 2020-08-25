@@ -1,2 +1,3 @@
 # deeplearn_study
 deeplearn_study tensorflow
+学习tensorflow时的脚本
